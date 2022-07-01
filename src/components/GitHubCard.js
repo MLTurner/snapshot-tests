@@ -6,7 +6,8 @@ function GitHubCard() {
     <div data-testid="GHCard">
       <div className="card">
         <h5>Fullstack Dev Student Marissa Turner</h5>
-        <img src={nye} alt="my profile pic" />
+        <img 
+        src={nye} alt="my profile pic"/>
       </div>
       <div className="card-body">
         <p className="card-text">
